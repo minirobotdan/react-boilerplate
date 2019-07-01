@@ -151,7 +151,7 @@ const newState = {
 ```js
 const greeting = 'Hello', name = 'world';
 
-// DON'T- HARDV TO READ, PRONE TO TYPOS, WASTEFUL.
+// DON'T- HARD TO READ, PRONE TO TYPOS, WASTEFUL.
 let sentence = '';
 sentence += greeting;
 sentence += ', ';
